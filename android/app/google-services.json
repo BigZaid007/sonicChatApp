@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "624851129870",
+    "project_id": "sonic-444e0",
+    "storage_bucket": "sonic-444e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624851129870:android:9c65e7fc45d856735b4e5f",
+        "android_client_info": {
+          "package_name": "com.example.sonic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624851129870-eres2q7vj6er6h6osnldgjv5pbcoqq1l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sonic",
+            "certificate_hash": "b79cdc536da5320876dd02ab84c0fe3048d9873a"
+          }
+        },
+        {
+          "client_id": "624851129870-taqt92jkua3eb3na2g8rkbt1m1jduv1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHkWrMmfYJBvLeD-xQYI0J6vLaX7A8LyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624851129870-taqt92jkua3eb3na2g8rkbt1m1jduv1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
